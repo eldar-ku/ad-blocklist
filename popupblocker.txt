@@ -1,4 +1,4 @@
-[Pop-Up Blocklist]
+![Pop-Up Blocklist]
 
 ||a.magsrv.com^
 ||b1.trafficdeposit.com^
