@@ -9,3 +9,6 @@
 ||www.google-analytics.com^
 ||www.googletagmanager.com^
 ||yps.link^
+||cdn.tapioni.com^
+||lcydaqakhdm.com^
+||b3.trafficdeposit.com^
