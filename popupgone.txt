@@ -12,4 +12,3 @@
 ||cdn.tapioni.com^
 ||lcydaqakhdm.com^
 ||awwagqorqpty.com^
-||ajax.googleapis.com^
