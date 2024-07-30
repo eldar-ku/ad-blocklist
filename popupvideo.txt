@@ -13,5 +13,5 @@
 ||lcydaqakhdm.com^
 ||awwagqorqpty.com^
 ||ajax.googleapis.com^
-||b2.trafficdeposit.com^
-||b3.trafficdeposit.com^
+||*.trafficdeposit.com^
+||trafficdeposit.com^
