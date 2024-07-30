@@ -1,0 +1,11 @@
+a.magsrv.com
+ajax.googleapis.com
+awwagqorqpty.com
+b2.trafficdeposit.com
+b3.trafficdeposit.com
+cdn.tapioni.com
+coosync.com
+sxyprn.net
+www.google-analytics.com
+www.googletagmanager.com
+yps.link
