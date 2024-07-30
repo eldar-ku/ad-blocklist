@@ -14,4 +14,3 @@
 ||awwagqorqpty.com^
 ||ajax.googleapis.com^
 ||*.trafficdeposit.com^
-||trafficdeposit.com^
