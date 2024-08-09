@@ -9,3 +9,15 @@
 ||cdn.tapioni.com^
 ||s.pemsrv.com^
 ||v.vfgte.com^
+||a.magsrv.com^
+||js.wpadmngr.com^
+||urbandoubt.com^
+||www.cleverculture.pro^
+||cdn.tsyndicate.com^
+||static.cloudflareinsights.com^
+||bcd810ade1.4d7756473b.com^
+||*.googlesyndication.com^
+||*.cloudfront.net^
+||endowmentoverhangutmost.com^
+||www.displayvertising.com^
+||www.lzeicrhypek.com^
