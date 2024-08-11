@@ -1,0 +1,2 @@
+||sxyprn.com^$csp=script-src-elem https://sxyprn.com/* 'unsafe-inline'
+||sxyprn.net^$csp=script-src-elem https://sxyprn.net 'unsafe-inline'
