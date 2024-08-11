@@ -1,1 +1,1 @@
-*$script,domain=sxyprn.com|sxyprn.net,denyallow=google.com|googleapis.com|gstatic.com|hcaptcha.com|recaptcha.net|sxyprn.com|sxyprn.net
+||sxyprn.com^$csp=script-src-elem https://sxyprn.com 'unsafe-inline'
