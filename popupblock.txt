@@ -1,0 +1,4 @@
+||*.com^$script,domain=sxyprn.com
+@@||sxyprn.com^
+||*.com^$script,domain=sxyprn.net
+@@||sxyprn.net^
