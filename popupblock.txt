@@ -2,3 +2,4 @@
 @@||sxyprn.com^
 ||*.com^$script,domain=sxyprn.net
 @@||sxyprn.net^
+@@||ajax.googleapis.com^
