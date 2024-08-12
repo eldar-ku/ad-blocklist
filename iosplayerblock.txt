@@ -1,2 +1,5 @@
 @@||*.eporner.com^
 @@||eporner.com^
+@@||*.com^$domain=eporner.com
+||*.com^$script,domain=eporner.com
+||*.com^$document,domain=eporner.com
