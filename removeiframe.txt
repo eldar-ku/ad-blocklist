@@ -1,1 +1,1 @@
-||sxyprn.com^$script,third-party
+||*.com^$script,domain=sxyprn.com
