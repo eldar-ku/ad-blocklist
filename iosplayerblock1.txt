@@ -1,7 +1,0 @@
-@@||*.eporner.com^
-@@||eporner.com^
-@@||*.com^$domain=eporner.com
-||*.com^$script,domain=eporner.com
-||*.com^$document,domain=eporner.com
-@@||twinrdsrv.com/preroll.engine$xhr,domain=www.eporner.com
-@@||as.air2s.com/vast/xml$xhr,domain=eporner.com
