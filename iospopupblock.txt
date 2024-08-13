@@ -4,3 +4,4 @@
 @@||sxyprn.net^
 @@||ajax.googleapis.com^
 ||*.com^$script,domain=rule34video.com
+@@||rule34video.com^
