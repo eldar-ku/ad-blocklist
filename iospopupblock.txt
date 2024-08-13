@@ -3,3 +3,4 @@
 ||*.com^$script,domain=sxyprn.net
 @@||sxyprn.net^
 @@||ajax.googleapis.com^
+||*.com^$script,domain=rule34video.com
