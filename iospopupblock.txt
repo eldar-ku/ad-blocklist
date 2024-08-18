@@ -6,3 +6,4 @@
 ||*.com^$script,domain=rule34video.com
 @@||rule34video.com^
 @@||dash-s4-n10-ca-cdn.eporner.com^
+*.com^$script,domain=dash-s4-n10-ca-cdn.eporner.com.com
