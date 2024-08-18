@@ -5,6 +5,3 @@
 @@||ajax.googleapis.com^
 ||*.com^$script,domain=rule34video.com
 @@||rule34video.com^
-@@||*.eporner.com^
-@@||*.com^$script,domain=*.eporner.com^
-@@||static-ca-cdn.eporner.com^
